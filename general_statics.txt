@@ -1,0 +1,6 @@
+Estadisticas de la conexion:
+- Paquetes perdidos: 34.222%
+- RTT minimo: 2.64 ms
+- RTT maximo: 8423.00 ms
+- RTT promedio: 32.51 ms
+- Desviacion estandar: 349.41 ms
